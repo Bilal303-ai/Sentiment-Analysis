@@ -19,5 +19,5 @@ This model analyzes input text to determine sentiment, categorizing it as either
 ## Demo
 You can access the live demo of the app on [Hugging Face](https://huggingface.co/spaces/BilalHasan/Sentiment-Analysis).
 
-
+## Training code
 This [kaggle notebook](https://www.kaggle.com/code/bilalhasan12/sentiment-analysis-using-fnet) contains the complete training procedure.
