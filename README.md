@@ -15,3 +15,4 @@ This model analyzes input text to determine sentiment, categorizing it as either
    ```bash
    python inference.py
    ```
+This [kaggle notebook](https://www.kaggle.com/code/bilalhasan12/sentiment-analysis-using-fnet) contains the complete training procedure.
