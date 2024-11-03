@@ -1,10 +1,11 @@
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 import json
+import keras_nlp
 
 fnet_classifier = load_model("Sentiments classifier.keras")
 
-review_example = input("Input your review")
+review_example = input("Input your review: ")
 
 with open("vocab.json", "r") as f:
     vocab = json.load(f)
