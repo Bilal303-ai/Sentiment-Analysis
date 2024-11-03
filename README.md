@@ -1,5 +1,5 @@
 # About
-This model performs sentiment analysis on an input text. The model outputs one of the two classes: "Positive" or "Negative". The model was trained on a small subset of [**Amazon reviews**](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews) dataset.
+This model performs sentiment analysis on an input text. It outputs one of the two classes: "Positive" or "Negative". The model was trained on a small subset of [**Amazon reviews**](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews) dataset.
 
 # Setup instructions
 1. Clone the repository:
